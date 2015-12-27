@@ -1,6 +1,6 @@
 title:            Notepad
 description:      "Blogging is fun"
-logo: https://cloud.githubusercontent.com/assets/8231559/12011646/cee61fa4-acfc-11e5-8519-9236753e3ab8.png
+logo: hmfaysal.jpg
 disqus_shortname: hmfaysal
 share:            true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -10,14 +10,14 @@ share:            true
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:          Samyak Choudhary
   avatar:         hmfaysal.jpg
   email:          you@email.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    cool guy @iitr
   # Social networking links used in footer. Update and remove as you like.
   twitter:        hmfaysal
-  facebook:       hmfaysal
+  facebook:       samyak.choudhary.355
   github:         hmfaysal      
   instagram:      hmfaysal
   # For Google Authorship https://plus.google.com/authorship
