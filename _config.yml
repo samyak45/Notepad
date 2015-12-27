@@ -1,6 +1,6 @@
 title:            Notepad
 description:      "Blogging is fun"
-logo: hmfaysal.jpg
+logo:           logo.png
 disqus_shortname: hmfaysal
 share:            true
 # Change url to your domain. Leave localhost server or blank when working locally.
