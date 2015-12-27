@@ -1,6 +1,6 @@
 title:            Notepad
 description:      "Blogging is fun"
-logo:             logo3.png
+logo: https://cloud.githubusercontent.com/assets/8231559/12011646/cee61fa4-acfc-11e5-8519-9236753e3ab8.png
 disqus_shortname: hmfaysal
 share:            true
 # Change url to your domain. Leave localhost server or blank when working locally.
