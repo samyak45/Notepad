@@ -7,7 +7,7 @@ image:
   feature: Hossain-Mohd-Faysal.jpg
 ---
 
-  <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="Hossain Mohammad Faysal">
+  <img src="{{ site.url }}/images/me_in_shadows.jpg" alt="Samyak Choudhary">
 
 
 My name is **Hossain Mohd. Faysal**, and this is my personal blog.  
